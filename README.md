@@ -1,4 +1,4 @@
-![logo](https://github.com/yuvrajSingh-rajput/yuvrajSingh-rajput/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
