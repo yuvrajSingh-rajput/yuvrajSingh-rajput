@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **sunilkumarsingh6307gmail.com**
 
+- ⚔️ solved **400+** DSA problems on multiple coding platforms.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuvraj-singh-rajput-12489925a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj-singh-rajput-12489925a" height="30" width="40" /></a>
