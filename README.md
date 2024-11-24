@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh Rajput</h1>
 
 # 💫 About Me:
-<img align="right" alt="coding" width="280" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/>
+<img align="right" alt="coding" width="280" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"/><br/>
 -🔭 I’m currently working with <b>React.js</b><br/><br/>- 🌱 I’m currently learning <b>Backend Development</b><br/><br/>- 👨‍💻 All of my projects are available at [Github](https://github.com/yuvrajSingh-rajput).<br/><br/>- 💬 Ask me about <b>C++, ReactJs and DSA</b><br/><br/>- 📫 How to reach me yuvrajsingh01579@gmail.com<br /><br/>- 🤖 Solved 400+ DSA Problems across multiple coding platforms.<br/>
 
 ## 🌐 Connect with Me:
