@@ -1,74 +1,126 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Singh Rajput</h1>
-
-# 💫 About Me:
 <div align="center">
-  <img align="right" alt="coding" width="250" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" style="margin-left: 20px; margin-bottom: 10px;"/>
-  <div align="left" style="display: inline-block; vertical-align: top;">
-    <p>- 🔭 I'm currently working with <b>React.js</b></p>
-    <p>- 🌱 I'm currently learning <b>Backend Development</b></p>
-    <p>- 👨‍💻 All of my projects are available at <a href="https://github.com/yuvrajSingh-rajput">Github</a></p>
-    <p>- 💬 Ask me about <b>C++, ReactJs and DSA</b></p>
-    <p>- 📫 How to reach me: yuvrajsingh01579@gmail.com</p>
-    <p>- 🤖 Solved 400+ DSA Problems across multiple coding platforms</p>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20CoderOm!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&customColorList=24" alt="Header banner" width="100%" />
 </div>
 
-<br clear="both">
+## 💫 About Me
 
-## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/yuvraj-singh-rajput-12489925a" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Shopify+Expert;NextJs+Developer;Web3+Enthusiast" alt="Typing animation" />
   </a>
-  <a href="https://codesandbox.com/yuvrajsingh-rajput" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-CodeSandbox-%23333.svg?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
+</div>
+
+<div align="center">
+  <img alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" style="border-radius: 10px; margin: 20px 0;" />
+</div>
+
+### 👨‍💻 Summary
+
+- 🔭 Currently working on **Full Stack Dev (MERN + NextJs)** & **Shopify Development**  
+- 👯 Looking to collaborate on **NextJs, Web3 (Solana)** & **Shopify** projects  
+- 🌱 Learning **DevOps**, **Web3 Solana**, and **Shopify App Development**  
+- 💬 Ask me about **Shopify Liquid**, **Shopify Plus**, **TypeScript**, **NextJs**, or any dev questions  
+- ⚡ Fun fact: **I love coding!**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/>
+</div>
+
+## 🛠️ Technologies & Tools
+
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light" alt="Languages" />
+      <br/>
+      <img src="https://img.shields.io/badge/Shopify-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light" alt="Frontend stack" />
+    </td>
+  </tr>
+  <tr>
+    <th>Backend & Databases</th>
+    <th>Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,dotnet&theme=light" alt="Backend & DBs" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/>
+</div>
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/coderomm"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="Github" /></a>
+  <a href="https://www.linkedin.com/in/1omsharma/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>
+  <a href="https://x.com/1omsharma"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" /></a>
+  <a href="mailto:mail.coderom@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" /></a>
+  <a href="https://discord.com/channels/@coder.om"><img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" /></a>
+  <a href="https://www.instagram.com/coder.om/"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@Coder_Om"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/>
+</div>
+
+## 🌟 Important Links
+
+<div align="center">
+  <a href="https://omsharma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Full_Stack_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://instagram.com/_yuvrajsinghrajput_" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://shopify-developer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Shopify_Portfolio-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Portfolio" />
   </a>
-</p>
-
-# 💻 Tech Stack:
-<div align="center">
-
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Typescript](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgeSQL-%230081CB.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Cloudflare](https://img.shields.io/badge/Cloudflare-FF6C37?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  <a href="https://omsharma.vercel.app/OmSharma_Nov2024.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume PDF" />
+  </a>
 </div>
 
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajSingh-rajput&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajSingh-rajput&theme=shades-of-purple&hide_border=false" alt="GitHub Streak" width="45%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajSingh-rajput&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/>
 </div>
 
-## 🏆 GitHub Trophies
+## 📊 Github Stats
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajSingh-rajput&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajSingh-rajput&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="yuvrajSingh-rajput GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=yuvrajSingh-rajput&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="GitHub Streak" />
 </div>
 
-### ✍️ Random Dev Quote
+<br/>
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajSingh-rajput&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Top Languages" width="49%" />
+</div>
+
+
+## 🐍 Github Contributions
+
+<div align="center">
+  <img src="https://github.com/yuvrajSingh-rajput/yuvrajSingh-rajput/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+## 🏆 Github Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderomm&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=15" alt="GitHub Trophies" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&customColorList=24" alt="Footer banner" width="100%" />
 </div>
