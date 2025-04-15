@@ -1,25 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20CoderOm!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&customColorList=24" alt="Header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Yuvraj%20Singh%20Rajput!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&customColorList=24" alt="Header banner" width="100%" />
 </div>
 
 ## 💫 About Me
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Shopify+Expert;NextJs+Developer;Web3+Enthusiast" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Backend+Developer;Competitive+Programmer;NextJs+Developer;" alt="Typing animation" />
   </a>
 </div>
 
 <div align="center">
-  <img alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" style="border-radius: 10px; margin: 20px 0;" />
-</div>
+  <img alt="Coding GIF" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="280" style="border-radius: 10px; margin: 20px 0;" />
+</div> 
 
 ### 👨‍💻 Summary
 
-- 🔭 Currently working on **Full Stack Dev (MERN + NextJs)** & **Shopify Development**  
-- 👯 Looking to collaborate on **NextJs, Web3 (Solana)** & **Shopify** projects  
-- 🌱 Learning **DevOps**, **Web3 Solana**, and **Shopify App Development**  
-- 💬 Ask me about **Shopify Liquid**, **Shopify Plus**, **TypeScript**, **NextJs**, or any dev questions  
+- 🔭 Currently working on **Full Stack Dev (MERN + NextJs)**.
+- 👯 Looking to collaborate on **NextJs** & **Full Stack** projects  
+- 🌱 Learning **DevOps**, and **Advance Backend** . 
+- 💬 Ask me about **React.js**, **DSA**, **TypeScript**, **NextJs**, or any dev questions  
 - ⚡ Fun fact: **I love coding!**
 
 <div align="center">
@@ -35,9 +35,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light" alt="Languages" />
-      <br/>
-      <img src="https://img.shields.io/badge/Shopify-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+      <img src="https://skillicons.dev/icons?i=js,ts,cpp&theme=light" alt="Languages" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light" alt="Frontend stack" />
@@ -49,10 +47,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,dotnet&theme=light" alt="Backend & DBs" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql&theme=light" alt="Backend & DBs" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=cloudflare,docker,git,vercel,postman&theme=light" alt="Tools" />
     </td>
   </tr>
 </table>
@@ -64,13 +62,12 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/coderomm"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="Github" /></a>
-  <a href="https://www.linkedin.com/in/1omsharma/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>
-  <a href="https://x.com/1omsharma"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" /></a>
-  <a href="mailto:mail.coderom@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" /></a>
-  <a href="https://discord.com/channels/@coder.om"><img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" /></a>
-  <a href="https://www.instagram.com/coder.om/"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@Coder_Om"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/yuvrajSingh-rajput"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="Github" /></a>
+  <a href="https://linkedin.com/in/yuvraj-singh-rajput-12489925a"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" /></a>
+  <a href="https://x.com/yuvrajsingh2335"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" /></a>
+  <a href="mailto:yuvrajsingh01579@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" /></a>
+  <a href="https://discord.com/channels/@ya_ferr2222"><img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" /></a>
+  <a href="https://www.instagram.com/_yuvrajsinghrajput_/"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
 </div>
 
 <div align="center">
@@ -80,13 +77,13 @@
 ## 🌟 Important Links
 
 <div align="center">
-  <a href="https://omsharma.vercel.app/" target="_blank">
+<!--   <a href="https://omsharma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Full_Stack_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://shopify-developer.vercel.app/" target="_blank">
+  </a> -->
+<!--   <a href="https://shopify-developer.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Shopify_Portfolio-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Portfolio" />
-  </a>
-  <a href="https://omsharma.vercel.app/OmSharma_Nov2024.pdf" target="_blank">
+  </a> -->
+  <a href="https://drive.google.com/file/d/1KmmwiXUAPo6jYH5s1znGy4RWK1DqivUd/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume PDF" />
   </a>
 </div>
@@ -118,7 +115,7 @@
 ## 🏆 Github Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderomm&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajSingh-rajput&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=15" alt="GitHub Trophies" width="100%" />
 </div>
 
 <div align="center">
