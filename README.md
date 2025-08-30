@@ -83,7 +83,7 @@
 <!--   <a href="https://shopify-developer.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Shopify_Portfolio-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Portfolio" />
   </a> -->
-  <a href="https://drive.google.com/file/d/1KmmwiXUAPo6jYH5s1znGy4RWK1DqivUd/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1Dm86Jc00BbqRx54n4DNlzgegCLD6UeAq/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume PDF" />
   </a>
 </div>
